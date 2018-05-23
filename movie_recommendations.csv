@@ -1,0 +1,228 @@
+Movie Title ,Genre of Movie ,My Rating on IMDb,IMDb Rating ,Metacritic Score ,Rotten Tomato Freshness
+,,,,,
+1) Confidence (2003),Crime/Thriller/Heist,7/10,6.3/10,59,69%
+2) Monty Python and the Holy Grail (1975),Comedy,8/10,8.3/10,93,97%
+3) God Bless America (2011) ,Comedy,8/10,7.2/10,56,67%
+4) Pitch Perfect (2012),Comedy/Music,8/10,7.2/10,66,80%
+5) Seven Psycopaths (2012),Comedy/Crime,9/10,7.2/10,66,82%
+6) How To Rob a Bank (2007),Comedy/Crime/Heist,7/10,6.1/10,27,17%
+7) Con Air (1997),Action,8/10,6.8/10,52,55%
+8) Hansel and Gretel: Witch Hunters (2013),Action/Fantasy/Horror,7/10,6.1/10,21,14%
+9) Dredd (2012),Action/Sci-Fi,8/10,7.1/10,59,78%
+10) Invincible (2006),Biopic/Drama/Sport,7/10,7.1/10,63,72%
+11) Flight (2012),Drama ,7/10,7.3/10,76,78%
+12) Silver Linings Playbook (2012),Comedy/Drama,9/10,7.8/10,81,92%
+13) Mere Dad Ki Maruti (2013),Comedy,8/10,6.5/10,N/A,N/A
+14) Funny Games (1997),Thriller/Drama,8/10,7.6/10,69,64%
+15) Moonrise Kingdom (2012),Adventure/Drama,8/10,7.8/10,84,93%
+16) Psycho (1960),Horror/Thriller,9/10,8.5/10,97,97%
+17) Death of a Superhero (2011),Drama ,7/10,7.1/10,N/A,90%
+18) Ruby Sparks (2012),Drama/Fantasy,7/10,7.2/10,67,79%
+19) Liberal Arts (2012),Drama/Romance,7/10,6.7/10,55,70%
+20) Lockout (2012),Action/Sci-Fi,7/10,6.1/10,48,37%
+21) Killer Joe (2011),Drama,8/10,6.7/10,62,78%
+22) Se7en,Crime/Drama/Mystery,9/10,8.6/10,65,80%
+23) The Bone Collector (1999),Crme/Mystery/Thriller,7/10,6.7/10,45,28%
+24) This Film Is Not Yet Rated (2006) ,Documentary,8/10,7.5/10,75,84%
+25) Compliance (2012),Biography/Drama,7/10,6.4/10,68,89%
+26) Robot & Frank (2012) ,Comedy/Drama/Crime,8/10,7.1/10,67,87%
+27) Hotel Transylvania (2012),Comedy/Animation ,8/10,7.1/10,47,44%
+28) The Game (1997),Mystery/Thriller,7/10,7.8/10,61,72%
+29) The Breakfast Club (1985),Drama,8/10,7.9/10,62,88%
+30) Maniac (2012),Horror ,7/10,6.1/10,47,51%
+31) Warm Bodies (2013),Rom-Com,7/10,6.9/10,59,81%
+32) Dark City (Directors Cut) (1998),Sci-Fi/Drama/Action,8/10,7.7/10,66,74%
+33) Now You See Me (2013),Mystery/Heist,8/10,7.3/10,50,50%
+34) Oldeuboi (Oldboy) (2003) ,Mystery/Thriller,9/10,8.4/10,74,80%
+35) Stoker (2013),Drama/Thriller,8/10,6.8/10,58,70%
+36) Murder By Numbers (2002),Mystery/Thriller,6/10,6.1/10,50,31%
+37) Butter (2011),Comedy,7/10,6.2/10,40,33%
+38) Pacific Rim (2013) ,Action,9/10,7.0/10,64,71%
+39) Grosse Point Blank (1997),Action/Comedy/Romance,7/10,7.4/10,76,80%
+40) Oblivion (2013),Action/Adventure/Sci-Fi,7/10,7.0/10,54,52%
+41) It's A Boy Girl Thing (2006),Rom-Com/Fantasy,6/10,6.3/10,N/A,67%
+42) Carrie (1976) ,Horror,7/10,7.4/10,85,93%
+43) Only God Forgives (2013) ,Drama,7/10,5.7/10,37,40%
+44) Trance (2013),Crime/Drama/Mystery,7/10,6.9/10,61,68%
+45) Side Effects (2013),Thriller/Drama,8/10,7.1/10,75,83%
+46) Horrible Bosses (2011) ,Action/Comedy,7/10,6.9/10,57,69%
+47) Udaan (2010) ,Drama,7/10,8.2/10,N/A,N/A 
+48) Pawn Shop Chronicles (2013) ,Action/Comedy/Crime ,6/10,5.9/10,26,N/A 
+49) Office Space (1999) ,Comedy,7/10,7.8/10,68,79%
+50) Coffy (1973),Action/Thriller/Blaxploitation,7/10,6.9/10,N/A,78%
+51) Videodrome (1983),Body Horror/Sci-Fi,6/10,7.3/10,60,78%
+52) Man of Tai Chi (2013),Action,7/10,6.1/10,52,71%
+53) The Croods (2013) ,Animation/Comedy,8/10,7.2/10,55,72%
+54) This Is The End (2013) ,Comedy,7/10,6.6/10,67,82%
+55) Pain & Gain (2013) ,Comedy/Crime/Action,7/10,6.4/10,45,50%
+56) Following (1998) ,Crime/Mystery/Thriller,7/10,7.6/10,60,79%
+57) The Heat (2013),Action/Comedy,7/10,6.6/10,60,65%
+58) Violet & Daisy (2011),Drama/Comedy,6/10,6.1/10,43,22%
+59) We're The Millers (2013),Comedy/Crime,7/10,7.0/10,44,47%
+60) Somm (2012),Documentary ,8/10,7.0/10,58,78%
+61) 2 Guns (2013) ,Action/Comedy,7/10,6.7/10,55,64%
+62) Good Will Hunting (1997) ,Drama,8/10,8.3/10,70,97%
+63) Evolution (2001),Comedy/Sci-Fi,6/10,6.1/10,40,42%
+64) Being Cyrus (2005),Drama,7/10,7.3/10,N/A,N/A
+65) Mou Gaan Dou (Infernal Affairs) (2002),Crime/Drama,8/10,8.1/10,75,94%
+66) Elysium (2013),Action/Sci-Fi,7/10,6.6/10,61,67%
+67) Inside Man (2006) ,Crime/Drama/Mystery,7/10,7.6/10,76,86%
+68) 11:14 (2003),Comedy,7/10,7.2/10,65,92%
+69) Hasee Toh Phasee (2014)  ,Rom-Com,7/10,6.9/10,N/A,N/A
+70) The Lego Movie (2014) ,Animation/Comedy,8/10,7.8/10,83,96%
+71) Speed Racer (2008) ,Action,9/10,6.0/10,37,40%
+72) Bad Words (2014) ,Comedy,7/10,6.7/10,57,65%
+73) The Secret Life of Walter Mitty (2013) ,Adventure/Drama,8/10,7.3/10,54,51%
+74) Rush (2013),Biopic/Drama/Sport,9/10,8.1/10,75,89%
+75) The Grand Budapest Hotel (2014),Adventure/Comedy/Drama,8/10,8.1/10,88,92%
+76) Captain America: The Winter Soldier (2014),Action/Adventure/Sci-Fi,8/10,7.8/10,70,89%
+77) Snowpiercer (2014),Action/Sci-Fi,8/10,7.0/10,84,95%
+78) Blade Runner (1982),Sci-Fi,7/10,8.2/10,89,90%
+79) Troll Hunter (2010),Fantasy/Horror,7/10,7.0/10,61,71%
+80) Edge Of Tomorrow (2014),Action/Adventure/Sci-Fi,9/10,7.9/10,71,90%
+81) Big Hero 6 (2014),Animation/Action/Adventure,8/10,7.8/10,74,89%
+82) The Equalizer (2014),Action/Thriller,7/10,7.2/10,57,60%
+83) Soodhu Kavvum (2013),Comedy/Crime,9/10,8.5/10,N/A,N/A
+84) The Guest (2014),Mystery/Thriller,8/10,6.7/10,76,89%
+85) Attack The Block (2011),Action/Comedy/Sci-Fi,7/10,6.6/10,75,90%
+86) This is Where I Leave You (2014),Comedy/Drama,7/10,6.6/10,44,42%
+87) John Tucker Must Die (2006),Rom-Com,6/10,5.8/10,41,27%
+88) Gone Girl (2014),Mystery/Thriller,8/10,8.1/10,79,87%
+89) Boyhood (2014),Drama,9/10,7.9/10,100,97%
+90) John Wick (2014),Action,9/10,7.3/10,68,86%
+91) Nightcrawler (2014),Drama/Thriller,8/10,7.9/10,76,95%
+92) Birdman (2014),Comedy/Drama,9/10,7.7/10,88,92%
+93) The Little Death (2014),Comedy,7/10,7.1/10,46,60%
+94) Le Samourai (1967),Crime/Drama,8/10,8.1/10,N/A,100%
+95) Blue Ruin (2013),Drama/Thriller,7/10,7.1/10,77,96%
+96) Le Cercle Rouge (1970) ,Crime/Drama,8/10,8.1/10,91,95%
+97) You're Next (2011),Horror/Thriller,8/10,6.5/10,66,76%
+98) Jhankaar Beats (2003),Rom-Com,7/10,7.3/10,N/A,N/A
+99) What We Do In The Shadows (2014),Comedy,8/10,7.6/10,76,76%
+100) Whiplash (2014),Drama/Music,8/10,8.5/10,88,94%
+101) Bombay Talkies (2013) ,Drama,7/10,6.8/10,N/A,N/A
+102) Queen (2013),Comedy/Drama,8/10,8.3/10,N/A,N/A
+103) Cheeni Kum (2007),Rom-Com,7/10,6.8/10,N/A,N/A
+104) Sunset Blvd. (1950),Drama/Film-Noir,8/10,8.5/10,N/A,98%
+105) Lola Rennt (Run Lola Run),Drama/Thriller,8/10,7.7/10,77,93%
+106) The World Before Her (2012),Documentary ,8/10,7.6/10,77,100%
+107) Penguins of Madagascar (2014),Animation/Adventure/Comedy,7/10,6.7/10,53,73%
+108) Top Five (2014) ,Rom-Com,7/10,6.4/10,81,86%
+109) The One I Love (2014) ,Drama/Fantasy,7/10,7.1/10,66,80%
+110) Mad Max (1979),Action/Adventure/Sci-Fi,7/10,7.0/10,67,90%
+111) Mad Max 2: The Road Warrior,Action/Adventure/Sci-Fi,7/10,7.6/10,76,98%
+112) Drishyam (2013),Crime/Drama/Thriller,8/10,8.8/10,N/A,N/A
+113) Starter for 10 (2006) ,Comedy/Drama,7/10,6.7/10,69,90%
+114) Mad Max: Fury Road (2015),Action/Adventure/Sci-Fi,9/10,8.1/10,90,97%
+115) Locke (2013),Drama,7/10,7.1/10,81,91%
+116) Shaitan (2011),Action/Crime/Drama,8/10,7.3/10,N/A,N/A
+117) KUNG FURY! (2015),Action/Comedy,9/10,8.0/10,N/A,N/A
+118) The DUFF (2015),Rom-Com,8/10,6.5/10,56,71%
+119) Dear White People (2014),Comedy/Drama,7/10,6.2/10,79,91%
+120) Predestination (2014),Drama/Sci-Fi,8/10,7.5/10,69,84%
+121) Ugly (2014),Drama/Mystery,9/10,8.1/10,N/A,N/A
+122) The Others (2001),Horror/Mystery,8/10,7.6/10,74,83%
+123) Inside Out (2015),Adventure/Comedy,9/10,8.2/10,94,98%
+124) Spy (2015),Action/Comedy,8/10,7.0/10,75,94%
+125) Detective Byomkesh Bakshy! (2015),Action/Mystery/Thriller,7/10,7.6/10,N/A,60%
+126) Soul Plane (2004),Comedy,7/10,4.4/10,33,18%
+127) Stretch (2014),Comedy/Crime,7/10,6.5/10,N/A,86%
+128) Otto e Mezzo (8½) (1963),Drama,7/10,8.1/10,N/A,98%
+129) Eden Lake (2008),Horror/Thriller,7/10,6.8/10,65,81%
+130) Pitch Perfect 2 (2015) ,Comedy/Music,7/10,6.4/10,63,65%
+131) Colour Me Kubrick (2005),Drama,7/10,6.2/10,57,49%
+132) Easy A (2010),Rom-Com,8/10,7.1/10,72,85%
+133) Mean Girls (2004),Comedy,8/10,7.0/10,66,83%
+134) Burying the Ex (2014),Rom-Com/Horror,6/10,5.4/10,37,29%
+135) Piku (2015),Comedy/Drama ,8/10,7.6/10,N/A,92%
+136) Wet Hot American Summer (2001),Comedy,8/10,6.7/10,42,33%
+137) Anger Management (2003),Comedy,6/10,6.2/10,52,43%
+138) Relatos Salvajes (Wild Tales) (2014) ,Comedy/Drama,8/10,8.1/10,77,95%
+139) The Martian (2015) ,Adventure/Drama/Sci-Fi,8/10,8.0/10,80,91%
+140) Spectre (2015) ,Action,7/10,6.8/10,60,63%
+141) Ant-Man (2015),Action/Comedy,7/10,7.3/10,64,82%
+142) Ted 2 (2015),Comedy,7/10,6.3/10,48,46%
+143) Star Wars: The Force Awakens (2015),Action/Adventure/Sci-Fi,8/10,8.0/10,81,93%
+144) Ex Machina (2015),Drama/Sci-Fi,8/10,7.7/10,78,92%
+145) Creed (2015),Drama/Sport,8/10,7.6/10,82,95%
+146) The Big Short (2015),Biography/Drama,8/10,7.8/10,81,88%
+147) The Man From U.N.C.L.E. (2015),Action/Adventure/Comedy,7/10,7.3/10,56,66%
+148) Shoot 'Em Up (2007) ,Action/Comedy,8/10,6.7/10,49,67%
+149) Straight Outta Compton (2015),Biography/Drama,8/10,7.9/10,72,87%
+150) Jigarthanda (2014),Comedy/Drama,9/10,8.4/10,N/A,N/A
+151) Jil Jung Juk (2016),Comedy,7/10,6.8/10,N/A,N/A
+152) Visaaranai (Interrogation) (2015),Drama/Thriller,9/10,8.6/10,N/A,N/A
+153) Buried (2010),Drama/Thriller,7/10,7.0/10,65,86%
+154) The Jungle Book (2016),Adventure,8/10,7.5/10,77,95%
+155) Thani Oruvan (2015),Action/Thriller,7/10,8.6/10,N/A,N/A
+156) Naanum Rowdythaan (2015),Rom-Com/Action,8/10,7.3/10,N/A,N/A
+157) Kadhalum Kadanthu Pogum (2016),Rom-Com,8/10,7.3/10,N/A,N/A
+158) 5 to 7 (2014),Romance,8/10,7.1/10,52,69%
+159) Pizza (2012),Horror,8/10,8.1/10,N/A,N/A
+160) Dil Dhadakne Do (2015),Drama,7/10,6.8/10,N/A,73%
+161) Captain America: Civil War (2016),Action,9/10,7.8/10,75,91%
+162) Kapoor and Sons (2016),Drama,9/10,7.8/10,N/A,100%
+163) Rajathandhiram,Comedy/Heist,8/10,7.7/10,N/A,N/A
+164) Romy and Michele's High School Reunion (1997),Comedy,6/10,6.2/10,59,71%
+165) Big Nothing (2006),Comedy/Thriller,8/10,6.8/10,N/A,N/A
+166) Dilwale (2015),Comedy/Drama,7/10,5.3/10,N/A,22%
+167) Hot Fuzz (2007),Action/Comedy,8/10,7.9/10,81,91%
+168) Zootopia/Zootropolis (2016),Action/Adventure/Comedy,8/10,8.0/10,78,98%
+179) Shaun Of The Dead (2004),Comedy/Horror,8/10,8.0/10,76,92%
+170) Fan (2016),Drama/Thriller,8/10,7.2/10,N/A,N/A
+171) The Nice Guys (2016),Action/Comedy,8/10,7.4/10,70,92%
+172) Independence Day (1996),Action/Adventure/Sci-Fi,8/10,7.0/10,59,62%
+173) Sky High (2005),Adventure/Comedy,7/10,6.2/10,62,73%
+174) Jack Reacher (2012),Action/Crime/Mystery,8/10,7.0/10,50,62%
+175) Popstar: Never Stop Never Stopping (2016),Comedy,7/10,6.7/10,68,78%
+176) The Neon Demon (2016),Horror/Thriller,6/10,6.2/10,51,58%
+177) Ride Along (2014),Action/Comedy,7/10,6.2/10,41,19%
+178) Ride Along 2 (2016),Action/Comedy,7/10,5.9/10,32,13%
+179) Nerve (2016),Action/Adventure,7/10,6.6/10,58,66%
+180) Angry Birds (The Angry Birds Movie) (2016),Action/Adventure,7/10,6.3/10,43,43%
+181) Sausage Party (2016),Comedy,7/10,6.2/10,66,82%
+182) Doctor Strange (2016),Action/Adventure/Fantasy,8/10,7.5/10,72,89%
+183) Rogue One: A Star Wars Story (2016),Action/Adventure/Sci-Fi,8/10,7.8/10,65,85%
+184) xXx (2002),Action/Adventure,7/10,5.9/10,48,48%
+185) Lara Croft: Tomb Raider (2001),Action/Adventure/Fantasy,6/10,5.8/10,33,20%
+186) Jack Reacher: Never Go Back (2016),Action/Adventure,7/10,6.1/10,47,37%
+187) TMNT(2007),Action/Adventure,7/10,6.3/10,41,34%
+188) Arrival (2016),Drama/Mystery/Sci-fi,8/10,7.9/10,81,94%
+189) Real Steel (2011),Action/Drama,8/10,7.1/10,56,59%
+190) Logan (2017),Action/Drama,9/10,8.1/10,77,93%
+191) Ulidavaru Kandanthe (As Seen By The Rest) (2014),Comedy/Drama,8/10,8.6/10,N/A,N/A
+192) Split (2017),Horror/Thriller,8/10,7.3/10,62,76%
+193) xXx: Return of Xander Cage (2017),Action/Adventure,6/10,5.2/10,42,45%
+194) Guardians of the Galaxy (2014),Action/Adventure/Sci-Fi,9/10,8.1/10,76,91%
+195) Guardians of the Galaxy Vol. 2 (2017),Action/Adventure/Sci-Fi,8/10,7.7/10,67,83%
+196) Wonder Woman (2017),Action/Adventure,8/10,7.5/10,76,92%
+197) Get Out (2017),Horror/Myster/Thriller,9/10,7.7/10,84,99%
+198) The LEGO Batman Movie (2017),Action/Comedy,8/10,7.3/10,75,90%
+199) Power Rangers (2017),Action/Adventure/Sci-Fi,6/10,6.0/10,44,44%
+200) Kong: Skull Island (2017),Action/Adventure/Fantasy,8/10,6.7/10,62,75%
+201) Fast Five (2011),Action/Crime/Thriller,7/10,7.3/10,66,77%
+202) Furious 6 (Fast and Furious 6) (2013),Action/Crime/Thriller,8/10,7.1/10,61,69%
+203) Furious 7 (Furious Seven) (2015),Action/Crime/Thriller,8/10,7.2/10,67,80%
+204) The Fate of the Furious (2017),Action/Crime/Thriller,7/10,6.7/10,56,66%
+205) Rise of The Planet of the Apes (2011),Action/Drama/Sci-Fi,8/10,7.6/10,68,81%
+206) Dawn of the Planet of The Apes (2014),Action/Adventure/Drama,8/10,7.6/10,79,90%
+207) War for the Planet of the Apes (2017),Action/Adventure/Drama,8/10,7.5/10,82,93%
+208) Going In Style (2017),Comedy/Crime,7/10,6.6/10,50,49%
+209) Baby Driver (2017),Action/Crime,7/10,7.7/10,86,93%
+210) King Arthur: Legend of the Sword (2017),Action/Adventure,8/10,6.8/10,41,30%
+211) Dhuruvangal Pathinaaru (2016),Action/Mystery/Thriller,7/10,8.6/10,N/A,N/A
+212) Chak De! India (2007),Drama/Sport,8/10,8.2/10,68,N/A
+213) Newton (2017),Comedy/Drama,8/10,7.8/10,N/A,90%
+214) The Boss Baby (2017),Comedy,7/10,6.3/10,50,52%
+215) 3 Idiots (2009),Comedy/Drama,8/10,8.4/10,67,100%
+216) Thor: Ragnarok (2017),Action/Adventure/Comedy,9/10,7.9/10,74,92%
+217) Star Wars: The Last Jedi (2017),Action/Adventure/Fantasy,9/10,7.3/10,85,91%
+218) Jumanji: Welcome to the Jungle (2017),Action/Adventure/Comedy,8/10,7.0/10,58,76%
+219) The Matrix (1999),Action/Sci-Fi,10/10,8.7/10,73,87%
+220) Goodfellas (1990),Crime/Drama,8/10,8.7/10,89,96%
+221) Black Panther (2018) ,Action/Adventure,8/10,7.6/10,88,97%
+222) Ready Player One (2018),Action/Adventure/Sci-Fi,8/10,7.8/10,64,73%
+223) Johnny English (2003),Action/Adventure/Comedy,8/10,6.2/10,51,33%
+224) Johnny English Reborn (2011),Action/Adventure/Comedy,7/10,6.3/10,46,38%
+225) Avengers: Infinity War (2018),Action,9/10,8.8/10,68,84%
+226) Pari (2018),Horror/Mystery,7/10,6.6/10,N/A,50%
